@@ -1,9 +1,8 @@
 * {
   margin: 0;
 }
-html,
-body {
-  --black: hsl(240, 6%, 13%);
+html, body {
+  --black: #FFF;
 
   --grey: hsl(240, 9%, 89%);
 
@@ -59,6 +58,7 @@ a {
   gap: 0.75rem;
   justify-content: center;
 }
+
 p {
   margin-top: 2rem;
 }
